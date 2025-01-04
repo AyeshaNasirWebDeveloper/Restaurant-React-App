@@ -1,0 +1,14 @@
+*{
+    font-family: sans-serif;
+}
+
+.back-image{
+    background-color: rgb(57,219,74);
+    border-radius: 500px; 
+}
+
+.but{
+    background-color: rgb(57,219,74);
+    color: white;
+    border-radius: 20px green;
+}
