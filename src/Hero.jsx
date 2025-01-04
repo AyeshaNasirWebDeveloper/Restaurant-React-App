@@ -10,7 +10,7 @@ const Hero = () => {
         <div className="col-10 col-sm-8 col-lg-6 ">
          
           <img
-            src="images/b-1.png"
+            src="/images/b-1.png"
             className="d-block mx-lg-auto img-fluid back-image"
             alt="Bootstrap Themes"
             width={450}

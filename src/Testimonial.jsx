@@ -27,7 +27,7 @@ const Testimonial = () => {
         <div className="col-10 col-sm-8 col-lg-6 ">
          
           <img
-            src="images/chef.png"
+            src="/images/chef.png"
             className="d-block mx-lg-auto img-fluid back-image"
             alt="Bootstrap Themes"
             width={450}
