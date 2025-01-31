@@ -1,0 +1,24 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+.color{
+    background-color: rgb(57,219,74);
+}
+
+.arrow{
+    color: rgb(57,219,74) !important;
+}
+
+.but{
+    border-radius: 20px;
+}
+
+.but:hover{
+    background-color: white;
+    color: rgb(43, 182, 57);;
+}
+
