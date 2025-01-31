@@ -11,7 +11,7 @@ const Hero = () => {
          
           <img
             src="images/b-1.png"
-            className="d-block mx-lg-auto img-fluid back-image"
+            className="d-block mx-lg-auto img-fluid back-image text-center"
             alt="Bootstrap Themes"
             width={450}
             height={300}
