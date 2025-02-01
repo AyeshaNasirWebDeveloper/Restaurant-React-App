@@ -70,7 +70,5 @@ This project is **MIT Licensed** – feel free to modify and use it as you like!
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
 
----
-
-🔗 **Live Demo:** 
+🔗 **Live Demo:** https://github.com/AyeshaNasirWebDeveloper/Restaurant-React-App
 📧 **Contact:** ayeshanasir07000@gmail.com
