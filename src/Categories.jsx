@@ -10,7 +10,8 @@ const Categories = ()=> {
 
   <div className="feature col text-center">
     <div className="feature-icon d-inline-flex align-items-center justify-content-center bg-gradient fs-2 mb-3 image">
-      <img className="img-fluid" src="Images\c-1.png" />
+      <img className="img-fluid" src="Images\c-1.png" 
+      />
     </div>
     <h3 className="fs-2 text-body-emphasis">Main Dish</h3>
     <p>

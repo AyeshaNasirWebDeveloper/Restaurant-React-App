@@ -17,6 +17,10 @@ Welcome to the **Restaurant Website** project! This is a fully responsive, moder
 - **React.js** – Frontend framework
 - **TailwindCSS** – Utility-first CSS framework for styling
 - **React Router** – Navigation and page routing
+<<<<<<< HEAD
+=======
+- **Framer Motion** (optional) – For smooth animations
+>>>>>>> 086bd91 (Front Page)
 
 ## 📸 Screenshots
 
@@ -26,7 +30,11 @@ Welcome to the **Restaurant Website** project! This is a fully responsive, moder
 
 1. Clone the repository:
    ```sh
+<<<<<<< HEAD
    git clone 
+=======
+   git clone https://github.com/AyeshaNasirWebDeveloper/Restaurant-Web.git
+>>>>>>> 086bd91 (Front Page)
    cd restaurant-website
    ```
 2. Install dependencies:
@@ -72,4 +80,8 @@ If you find this project useful, consider giving it a ⭐ on GitHub!
 ---
 
 🔗 **Live Demo:** 
+<<<<<<< HEAD
 📧 **Contact:** https://linktr.ee/ayesha_nasir
+=======
+📧 **Contact:** ayeshanasir07000@gmail.com
+>>>>>>> 086bd91 (Front Page)
